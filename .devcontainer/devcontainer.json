@@ -6,7 +6,7 @@
 	"image": "mcr.microsoft.com/devcontainers/rust:1-1-bookworm",
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/act:1": {},
-		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
+		"ghcr.io/devcontainers/features/docker-in-docker:4": {},
 		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
 	}
 
